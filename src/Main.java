@@ -3,9 +3,9 @@ public class Main {
 
         int x = 3;
         int y = 2;
-        String a = "bear";
-        String b = "yellow";
-        System.out.println("Hello world"+ " " + a);
+        String a = "no";
+        String b = "bill";
+        System.out.println("Hello world"+ " " + b);
         System.out.println(x+y);
 
 
